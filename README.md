@@ -8,7 +8,7 @@ Functions of this app include:
 - A chart visualizing the amount of money spent in each category of expenses compared to other expenses.
 - A list of expenses with the category, amount and date of the expense.
 
-![image](https://github.com/JacoHg/expense_tracker/assets/168348167/44d57053-9f59-4846-926f-76b1b796ef1a)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
