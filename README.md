@@ -1,6 +1,13 @@
 # expense_tracker
 
 A new Flutter project.
+This is a expense tracker app i build while learning flutter.
+
+Functions of this app include: 
+- Adding and removing expenses.
+- A chart visualizing the amount of money spent in each category of expenses compared to other expenses.
+- A list of expenses with the category, amount and date of the expense.
+
 
 ## Getting Started
 
